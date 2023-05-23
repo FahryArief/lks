@@ -1,0 +1,69 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Pemesanan Tiket2</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Pemesanan Tiket2</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Pemesanan Tiket2.vbproj" File="Pemesanan Tiket2.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_admin.vb">form_admin.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_admin.Designer.vb">form_admin.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_admin.resx">form_admin.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_login.vb">form_login.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_login.Designer.vb">form_login.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_login.resx">form_login.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_master.vb">form_master.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_master.Designer.vb">form_master.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_master.resx">form_master.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_pengunjung.vb">form_pengunjung.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_pengunjung.Designer.vb">form_pengunjung.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_pengunjung.resx">form_pengunjung.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_petugas.vb">form_petugas.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_petugas.Designer.vb">form_petugas.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="form_petugas.resx">form_petugas.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="lksDataSet.xsd">lksDataSet.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="lksDataSet.Designer.vb">lksDataSet.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="lksDataSet.xsc">lksDataSet.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="lksDataSet.xss">lksDataSet.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="lksDataSet1.xsd">lksDataSet1.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="lksDataSet1.Designer.vb">lksDataSet1.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="lksDataSet1.xsc">lksDataSet1.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="lksDataSet1.xss">lksDataSet1.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login_admin.vb">login_admin.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login_admin.Designer.vb">login_admin.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login_admin.resx">login_admin.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ModuleLogin.vb">ModuleLogin.vb</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="pesan.vb">pesan.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="pesan.Designer.vb">pesan.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="pesan.resx">pesan.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="register.vb">register.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="register.Designer.vb">register.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="register.resx">register.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="tiket_p.vb">tiket_p.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="tiket_p.Designer.vb">tiket_p.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="tiket_p.resx">tiket_p.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="user_form.vb">user_form.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="user_form.Designer.vb">user_form.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="user_form.resx">user_form.resx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
